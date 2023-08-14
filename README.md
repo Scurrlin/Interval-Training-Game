@@ -4,7 +4,7 @@ An ear training game for anyone looking to practice their interval recognition!
 ![banner_image](https://i.imgur.com/zJUR1O2.png)
 
 ## Getting Started
-[Hearo's Journey](https://Scurrlin.github.io/Interval_Browser_Game/)
+[Hearo's Journey](https://hearos-journey.onrender.com)
 
 Once you click the "Click to Start!" button, the first interval will play twice. If you need to hear the interval again, simply press the "Replay Interval" button. When you are ready to submit your answer, click the text box and select your response from the drop-down menu. The following intervals are potential answers:
 
