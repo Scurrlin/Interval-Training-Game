@@ -20,7 +20,7 @@ html, body {
     text-align: center;
     width: 75%;
     max-width: 350px;
-    padding: 15px;
+    padding: 20px;
 }
 
 .button {
@@ -28,7 +28,7 @@ html, body {
     width: 60%;
     padding: 15px 0;
     font-size: 18px;
-    margin: 15px auto;
+    margin: 25px auto;
     text-align: center;
     color: black;
     background: linear-gradient(180deg, #DDD 0%, #6e88a1 100%);
@@ -42,13 +42,13 @@ select {
     width: 60%;
     padding: 15px;
     font-size: 18px;
-    margin: 15px auto 15px auto;
+    margin: 25px auto;
     border: 1px solid #CCC;
 }
 
 @media (max-width: 768px) {
     #container {
-        width: 80%;
+        width: 85%;
     }
 
     .button, select {
@@ -58,7 +58,7 @@ select {
 
 @media (max-width: 480px) {
     #container {
-        width: 80%;
+        width: 85%;
         padding: 10px;
     }
 
