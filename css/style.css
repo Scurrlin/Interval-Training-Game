@@ -42,6 +42,7 @@ select {
     width: 60%;
     padding: 15px;
     font-size: 18px;
+    margin: auto;
     border: 1px solid #CCC;
 }
 
