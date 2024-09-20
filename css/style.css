@@ -20,34 +20,47 @@ html, body {
     text-align: center;
     width: 75%;
     max-width: 350px;
-    padding: 15px 15px 5px;
+    padding: 15px;
 }
 
 .button {
-    display: block;
+    display: inline-block;
     width: 60%;
-    padding: 10px;
+    height: 50px;
     font-size: 18px;
-    margin: 16px auto;
+    margin: 20px auto;
+    padding: 15px 25px;
     text-align: center;
-    color: black;
-    background: linear-gradient(180deg, #DDD 0%, #6e88a1 100%);
+    color: #666;
+    background-color: whitesmoke;
     border: none;
     border-radius: 15px;
     box-shadow: 0 5px slategray;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #c5cad4;
+}
+
+.button:active {
+    background-color: #c5cad4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
 }
 
 select {
     display: block;
     width: 60%;
-    padding: 10px;
+    height: 50px;
     font-size: 18px;
-    margin: 16px auto;
+    margin: 20px auto;
+    padding: 5px;
     border: 1px solid #CCC;
     background-color: white;
-    appearance: auto;
-    -webkit-appearance: menulist-button;
-    -moz-appearance: menulist-button;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
 }
 
 @media (max-width: 768px) {
