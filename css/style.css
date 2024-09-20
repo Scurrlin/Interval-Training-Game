@@ -19,7 +19,7 @@ html, body {
     background: linear-gradient(to top, rgb(80, 255, 112) 0%, rgb(124, 198, 255) 100%);
     text-align: center;
     width: 50%;
-    max-width: 32rem;
+    max-width: 30rem;
     padding: 20px;
 }
 
@@ -54,7 +54,7 @@ html, body {
 }
 
 select {
-    margin: 50px;
+    margin: 20px 0;
     width: 200px;
     padding: 5px 35px 5px 5px;
     font-size: 16px;
@@ -64,7 +64,7 @@ select {
 
 @media (max-width: 768px) {
     #container {
-        width: 80%;
+        width: 75%;
     }
 
     .button {
@@ -73,15 +73,14 @@ select {
     }
 
     select {
-        width: 100%;
-        margin: 20px 0;
+        width: 200px;
         height: 40px;
     }
 }
 
 @media (max-width: 480px) {
     #container {
-        width: 95%;
+        width: 90%;
         padding: 10px;
     }
 
@@ -93,5 +92,6 @@ select {
     select {
         font-size: 14px;
         height: 35px;
+        width: 180px;
     }
 }
