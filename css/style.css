@@ -44,6 +44,9 @@ select {
     font-size: 18px;
     margin: 10px auto;
     border: 1px solid #CCC;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
 
 @media (max-width: 768px) {
