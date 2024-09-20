@@ -25,10 +25,10 @@ html, body {
 
 .button {
     display: block;
-    width: 80%;
+    width: 70%;
     padding: 15px 0;
     font-size: 18px;
-    margin: 15px auto;
+    margin: 20px auto;
     text-align: center;
     color: black;
     background: linear-gradient(180deg, #DDD 0%, #6e88a1 100%);
@@ -39,11 +39,11 @@ html, body {
 
 select {
     display: block;
-    width: 80%;
+    width: 70%;
     padding: 15px;
     font-size: 18px;
-    margin: 15px auto;
-    border-radius: 15px;
+    margin: 20px auto;
+    /*border-radius: 15px;*/
     border: 1px solid #CCC;
 }
 
