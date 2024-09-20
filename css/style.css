@@ -42,13 +42,13 @@ select {
     width: 60%;
     padding: 15px;
     font-size: 18px;
-    margin: 15px auto;
+    margin: 15px auto 15px auto;
     border: 1px solid #CCC;
 }
 
 @media (max-width: 768px) {
     #container {
-        width: 75%;
+        width: 80%;
     }
 
     .button, select {
@@ -58,7 +58,7 @@ select {
 
 @media (max-width: 480px) {
     #container {
-        width: 75%;
+        width: 80%;
         padding: 10px;
     }
 
