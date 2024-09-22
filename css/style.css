@@ -61,7 +61,7 @@ select {
     }
 
     .button, select {
-        width: 85%;
+        width: 60%;
     }
 }
 
@@ -72,6 +72,6 @@ select {
     }
 
     .button, select {
-        width: 85%;
+        width: 60%;
     }
 }
