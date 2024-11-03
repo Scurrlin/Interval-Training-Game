@@ -29,8 +29,8 @@ Your High Score is determined by both your interval recognition accuracy and the
 
 ## Technologies Used
 * HTML
-* JavaScript
 * CSS
+* JavaScript
 * Pro Tools
 * Analog Lab V
 
