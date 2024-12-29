@@ -25,9 +25,6 @@ Your high score is determined by both your interval recognition accuracy and the
 * Analog Lab V
 
 ## Credits
-
-**Background Image** - Edited from ["White Concrete Castle in Green Field"](https://unsplash.com/photos/tn2rBnvIl9I) by [Rachel Davis](https://unsplash.com/@rmaedavis) on [Unsplash](https://unsplash.com/).
-
+**Background Image** - Edited from ["White Concrete Castle in Green Field"](https://unsplash.com/photos/tn2rBnvIl9I) by [Rachel Davis](https://unsplash.com/@rmaedavis) on [Unsplash](https://unsplash.com/)
 **CSS Gradients** - [SheCodes CSS gradients](https://gradients.shecodes.io/)
-
 **Inspiration** - [Mitchum](https://mitchum.blog/)
