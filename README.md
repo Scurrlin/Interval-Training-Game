@@ -3,7 +3,7 @@ An [ear training game](https://hearos-journey.onrender.com/) for anyone looking 
 
 ![banner_image](https://i.imgur.com/zJUR1O2.png)
 
-## Getting Started
+## How to Play
 Once you click the "Click to Start!" button, the first interval will play twice. If you need to hear the interval again, simply press the "Replay Interval" button. When you are ready to submit your answer, click the text box and select your response from the drop-down menu. The following intervals are potential answers:
 
 - Major and minor seconds
@@ -15,7 +15,7 @@ Once you click the "Click to Start!" button, the first interval will play twice.
 - Major and minor sevenths
 - Octave
 
-Your High Score is determined by both your interval recognition accuracy and the speed at which you complete the 10 questions.
+Your high score is determined by both your interval recognition accuracy and the speed at which you complete the 10 questions.
 
 ## Technologies Used
 * HTML
