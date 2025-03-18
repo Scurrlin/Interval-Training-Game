@@ -6,7 +6,6 @@ let questionCount = 10;
 let beginTime = "";
 let lastId;
 
-
 let playInterval = function( id ){
    if(lastId){
     document.getElementById(lastId).pause();
@@ -56,7 +55,6 @@ let confirmAnswer = function()
 }
 
 let evaluateAnswer = function() {
-
   let id = document.getElementById("answer").value;
   let interval = getInterval( id );
   if( interval.code === answers[questionIndex].code)
@@ -99,7 +97,6 @@ let saveHighScore = function( completionSeconds )
   }
   return highScore;
 }
-
 
 let replayInterval = function()
 {
@@ -170,10 +167,8 @@ let getInterval = function( id )
     case "11":
       interval = { code: "octave", name: "Octave" };
       break;
-    default:
-        
+    default:        
     }
-
     return interval;
 }
 
